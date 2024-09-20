@@ -1,0 +1,26 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(229, 252, 244);
+}
+
+h1{
+    margin: 2em 4em;
+    font-size: 2.5em;
+    text-align: center;
+    color: bisque;
+    background-color: rgba(0, 0, 255, 0.432);
+    border: 3px blueviolet
+}
+
+#id {
+    color: rgb(255, 255, 255);
+}
+
+.cl {
+    color: brown;
+}
