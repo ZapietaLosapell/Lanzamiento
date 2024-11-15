@@ -30,3 +30,10 @@ h1{
 li {
     color: blueviolet;
 }
+
+.columns {
+    padding: 1em;
+    margin: .5em;
+    background-color: blueviolet;
+    color: aliceblue;
+}
